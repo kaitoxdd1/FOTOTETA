@@ -1,0 +1,2 @@
+# FOTOTETA
+virtual machine
